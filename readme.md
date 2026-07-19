@@ -6,8 +6,7 @@
 - Exploring Generative AI, RAG systems, AI deployment, and open to Data Science research opportunities.
 ### Key Competences 
 - Python •  Power Bi • SQL • PyTorch • Scikit-learn • Hugging Face • JavaScript  •  FastAPI  • React  • Docker • MySQL • MongoDB • Git • GitHub • Azure • Linux.
-## 🛠️ Key Competences
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,pytorch,sklearn,docker,git,github,linux,mysql,mongodb,azure" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,pytorch,sklearn,docker,git,github,linux,mysql,mongodb,azure" />
 </p>
