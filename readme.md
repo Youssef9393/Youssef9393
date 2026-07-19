@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Youssef Eljaouhary
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&width=1100&lines=Aspiring+Data+Scientist+and+AI+Engineer;Strong+foundation+in+Programming;Passionate+about+Machine+Learning+and+Deep+Learning;Driven+by+Innovation+and+Real-World+Problem+Solving;Always+Learning+and+Building+Impactful+AI+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=1100&lines=Aspiring+Data+Scientist+%26+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Passionate+about+Innovation+and+AI;Building+Intelligent+Solutions+for+Real-World+Problems;Always+Learning%2C+Always+Improving)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
