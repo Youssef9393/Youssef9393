@@ -7,5 +7,6 @@
 ### Key Competences 
 - Python •  Power Bi • SQL • PyTorch • Scikit-learn • Hugging Face • JavaScript  •  FastAPI  • React  • Docker • MySQL • MongoDB • Git • GitHub • Azure • Linux.
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,langchain,python,fastapi,pytorch,docker,js,react,git,github,linux,mysql,mongodb,azure" />
+  <img src="https://skillicons.dev/icons?i=sklearn,python,fastapi,pytorch,docker,js,react,git,github,linux,mysql,mongodb,azure" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
