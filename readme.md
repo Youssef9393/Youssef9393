@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Youssef Eljaouhary
 
-🎓 Master's Student in Web Intelligence & Data Science  
-🤖 Aspiring Data Science & AI Engineer  
-💻 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Full-Stack Development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=900&lines=💻+Passionate+about+Artificial+Intelligence;Machine+Learning;Deep+Learning;Full-Stack+Development)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
